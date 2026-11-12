@@ -1,6 +1,16 @@
 
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/AnujaChaudhari2/AnujaChaudhari2/main/assets/profile-banner.png" width="100%" alt="Anuja's Data Analytics Profile Banner"/>
+</div>
+
+<br/>
+
+
+<br/>
+
+
+<div align="center">
 
 # Hey there! I'm Anuja Chaudhari 👋
 
