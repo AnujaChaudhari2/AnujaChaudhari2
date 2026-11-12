@@ -69,12 +69,12 @@ I enjoy working with data, uncovering patterns, building interactive dashboards 
 ### 🗄️ Databases & Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,html,css,react,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,html,css,github,vscode" />
 </p>
 
 ### 🔧 Other Technologies
 
-`PyTorch` `OpenCV` `Flask` `FastAPI` `Generative AI` `Streamlit`
+`PyTorch` `OpenCV` `Generative AI` `Streamlit`
 
 ---
 
